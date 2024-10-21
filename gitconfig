@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bernardinijoaquin@users.noreply.github.com
+	name = Joaquin Bernardini
